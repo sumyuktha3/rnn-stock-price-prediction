@@ -10,7 +10,7 @@ We aim to build a RNN model to predict the stock prices of Google using the data
 
 ## Neural Network Model:
 
-![Neural Model](https://user-images.githubusercontent.com/75413726/196022813-d4e0884b-3fd2-41ef-8f33-a61f7db638a6.png)
+![sammm](https://user-images.githubusercontent.com/75235818/196092928-d05c0af5-e7f3-47d6-80bc-16a15df2f766.jpeg)
 
 ## DESIGN STEPS:
 
